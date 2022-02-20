@@ -1,8 +1,0 @@
-{
-    "name": "vosiveswebsite",
-    "description": "Website For vosives",
-    "authors": "illusiives",
-    "version": "1.0.0",
-    "main": "pathToMain",
-    "dependencies": {}
-}
